@@ -10,8 +10,10 @@
   url: index.html#imp_dates
 #- title: Special Highlights
 #  url: index.html#highlights
-- title: Speakers
+- title: Keynote
   url: index.html#speakers
+- title: Shared Task
+  url: index.html#sharedtask 
 #- title: Schedule
 #  url: index.html#schedule 
 - title: Program committee

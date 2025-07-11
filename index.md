@@ -162,6 +162,15 @@ IMP NOTES:
 </p>
 <br>
 
+
+<!--Shared Task-->
+<h2 class="blackpar_title" id="sharedtask">Shared Task: SHROOM-CAP</h2>
+<hr  style="color: rgb(212, 110, 0);">
+<p>
+{% include sharedtask.html %}
+</p>
+<br>
+
 <!-- Panelist -->
 <h2 class="blackpar_title" id="panelists">Panelists</h2>
 <hr  style="color: rgb(212, 110, 0);">

@@ -1,0 +1,5 @@
+- title: Shared Task on Explainable Clinical NLP
+  image: shared_task.png
+  description: >
+    This task focuses on evaluating language models in healthcare using explainability criteria. Participants will work with clinical datasets and submit interpretable model outputs.
+  timeline_image: timeline.png
