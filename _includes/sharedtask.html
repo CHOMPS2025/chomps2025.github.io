@@ -20,7 +20,7 @@
       <!-- Bottom: Timeline / Logistics (text or image) -->
       <div style="display: flex; align-items: center;">
         {% if task.timeline_image %}
-          <img src="/images/{{ task.timeline_image }}" alt="Timeline" style="max-width: 100%; height: auto;">
+          <img src="/images/{{ task.timeline_image }}" alt="Timeline" style="max-width: 50%; height: auto;">
         {% elsif task.timeline_text %}
           <div style="font-size: 0.95em;">
             {{ task.timeline_text }}
