@@ -1,5 +1,5 @@
-- title: Shared Task on Explainable Clinical NLP
-  image: shared_task.png
+- title: SHROOM-CAP : Shared-task on Hallucinations and Related Observable Overgeneration Mistakes in Crosslingual Analyses of Publications
+  image: shroom-cap.png
   description: >
-    This task focuses on evaluating language models in healthcare using explainability criteria. Participants will work with clinical datasets and submit interpretable model outputs.
-  timeline_image: timeline.png
+    This task focuses on evaluating language models for scientific cross-lingual hallucination detection.
+  timeline_image: timeline_shroomcap.jpg
