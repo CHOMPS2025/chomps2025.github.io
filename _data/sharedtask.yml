@@ -1,4 +1,4 @@
-- title: SHROOM-CAP : Shared-task on Hallucinations and Related Observable Overgeneration Mistakes in Crosslingual Analyses of Publications
+- title: SHROOM-CAP - Shared-task on Hallucinations and Related Observable Overgeneration Mistakes in Crosslingual Analyses of Publications
   image: shroom-cap.png
   description: This task focuses on evaluating language models for scientific cross-lingual hallucination detection.
   timeline_image: timeline_shroomcap.jpg
