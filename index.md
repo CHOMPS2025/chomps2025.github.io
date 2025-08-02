@@ -175,7 +175,7 @@ IMP NOTES:
 <h2 class="blackpar_title" id="panelists">Panelists</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
-TBA
+{% include panelists.html %}
 </p>
 <br>
 
