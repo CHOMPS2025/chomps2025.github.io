@@ -1,14 +1,17 @@
 - num_row: 1
   speakers:
-    - name: Senior CHOMPER I
+    - name: Preslav Nakov
+      affiliation: MBZUAI
+      photo: preslav.jpg
+    - name: Sunayana Sitaram
+      affiliation: Microsoft Research
+      photo: sitaram.png
+    - name: Secret CHOMPER III
       affiliation: Marioworld
       photo: mumbai2.jpg
-    - name: Senior CHOMPER II
-      affiliation: Marioworld
+    - name: Secret CHOMPER IV
+      affiliation: 
       photo: mumbai2.jpg
-    - name: Senior CHOMPER III
-      affiliation: Marioworld
-      photo: mumbai2.jpg
-    - name: Senior CHOMPER III
+    - name: Secret CHOMPER V
       affiliation: 
       photo: mumbai2.jpg
