@@ -4,7 +4,7 @@
 	<div class="row_perso">
 	{% assign mod = row.speakers.size | modulo:2 == 0 %}
 	{% assign s = row.speakers.size %}
-	{% if s == 5 %}
+	{% if s == 4 %}
 		{% for speaker in row.speakers %}
 			<div class="card_perso column_perso">
 			  <img src="/images/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img_card_perso">
