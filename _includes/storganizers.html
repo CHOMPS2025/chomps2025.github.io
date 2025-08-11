@@ -6,7 +6,7 @@
 	{% if mod == 0 %}
 		{% for storganizer in row.storganizers %}
 			<div class="card_perso column_perso">
-			  <img src="/images/{{ storganizers.photo }}" alt="{{ storganizers.name }}" class="img_card_perso">
+			  <img src="/images/{{ storganizer.photo }}" alt="{{ storganizer.name }}" class="img_card_perso">
 			  <div class="container_perso" >
 				<center>
 				<h6>
@@ -14,21 +14,21 @@
 					<br>
 					{{ storganizer.affiliation }}
 					<br>
-					<a href="{{storganizers.url}}"> Website </a>
+					<a href="{{storganizer.url}}"> Website </a>
 				</h6>
 				</center>
 			  </div>
 			</div>
 		{% endfor %}
 	{% else %}
-		{% for storganizer in row.ststorganizers %}
+		{% for storganizer in row.storganizers %}
 			{% if c == 1 %}
 			{% assign style_val = "style='margin-left:13%;'" %}
 			{% else %}
 			{% assign style_val = '' %}
 			{% endif %}
 			<div class="card_perso column_perso" {{ style_val }}>
-			  <img src="/images/{{ storganizers.photo }}" alt="{{ storganizers.name }}" class="img_card_perso">
+			  <img src="/images/{{ storganizer.photo }}" alt="{{ storganizer.name }}" class="img_card_perso">
 			  <div class="container_perso" >
 				<center>
 				<h6>
