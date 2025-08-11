@@ -1,10 +1,10 @@
 - num_row: 1
   speakers:
     - name: Preslav Nakov
-      affiliation: MBZUAI
+      affiliation: MBZUAI, Abu Dhabi
       photo: preslav.jpg
     - name: Sunayana Sitaram
-      affiliation: Microsoft Research
+      affiliation: Microsoft Research India
       photo: sitaram.png
     - name: Secret CHOMPER III
       affiliation: Marioworld

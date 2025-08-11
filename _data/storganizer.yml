@@ -1,0 +1,15 @@
+- num_row: 0
+  organizers:
+    - name: Federica Gamba
+      affiliation: Charles University, Prague
+      photo: federica.jpg
+      url: https://ufal.mff.cuni.cz/federica-gamba 
+    - name: Laura Zanella
+      affiliation: Independent Reseacher
+      photo: laura.jpeg
+      url: https://scholar.google.com/citations?user=NUhkHp_VrJMC&hl=es
+    - name: Sai Asrith Devisetti
+      affiliation: IIIT Hyderabad, India
+      photo: sai.jpeg
+      url: https://www.linkedin.com/in/sai-asrith-devisetti-4a6717287/
+    

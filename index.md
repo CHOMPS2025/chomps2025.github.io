@@ -7,7 +7,7 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/mumbai.jpg') no-repeat; background-size: cover; user-select: none;">
+<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/mumbai2.jpg') no-repeat; background-size: cover; user-select: none;">
 	<center>
 		<br><br>
 		<h2 class="blackpar_title">CHOMPS 2025</h2>
@@ -162,6 +162,14 @@ IMP NOTES:
 </p>
 <br>
 
+<!-- Panelist -->
+<h2 class="blackpar_title" id="panelists">Panelists</h2>
+<hr  style="color: rgb(212, 110, 0);">
+<p>
+{% include panelists.html %}
+</p>
+<br>
+
 
 <!--Shared Task-->
 <h2 class="blackpar_title" id="sharedtask">Shared Task: SHROOM-CAP</h2>
@@ -171,13 +179,6 @@ IMP NOTES:
 </p>
 <br>
 
-<!-- Panelist -->
-<h2 class="blackpar_title" id="panelists">Panelists</h2>
-<hr  style="color: rgb(212, 110, 0);">
-<p>
-{% include panelists.html %}
-</p>
-<br>
 
 <!-- 
 <h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
@@ -226,6 +227,13 @@ IMP NOTES:
 </p>
 <br>
 
+<!-- SHROOMCAP Organizers -->
+<h2 class="blackpar_title" id="organizers">Shared Task Organizers</h2>
+<hr  style="color: rgb(212, 110, 0);">
+<p>
+{% include storganizers.html %}
+</p>
+<br>
 
 
 <style>
