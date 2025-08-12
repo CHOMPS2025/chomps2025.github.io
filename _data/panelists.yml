@@ -1,14 +1,14 @@
 - num_row: 1
   speakers:
-    - name: Preslav Nakov
-      affiliation: MBZUAI, Abu Dhabi
-      photo: preslav.jpg
     - name: Sunayana Sitaram
       affiliation: Microsoft Research India
       photo: sitaram.png
     - name: Chung-Chi Chen
       affiliation: NII, Japan
       photo: ccc.jpg
+    - name: Secret CHOMPER III
+      affiliation: 
+      photo: mumbai2.jpg
     - name: Secret CHOMPER IV
       affiliation: 
       photo: mumbai2.jpg
