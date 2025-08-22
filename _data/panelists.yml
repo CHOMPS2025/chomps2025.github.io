@@ -1,5 +1,8 @@
 - num_row: 1
   speakers:
+    - name: Preslav Nakov
+      affiliation: MBZUAI
+      photo: sitaram.png
     - name: Sunayana Sitaram
       affiliation: Microsoft Research India
       photo: sitaram.png
@@ -7,8 +10,5 @@
       affiliation: NII, Japan
       photo: ccc.jpg
     - name: Secret CHOMPER III
-      affiliation: 
-      photo: mumbai2.jpg
-    - name: Secret CHOMPER IV
       affiliation: 
       photo: mumbai2.jpg
