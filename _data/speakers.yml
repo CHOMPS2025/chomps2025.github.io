@@ -21,4 +21,12 @@
       affiliation: University of Washington, USA
       photo: abhilasha.png
       url: https://lasharavichander.github.io/
-      bio: "Abhilasha Ravichander is apostdoctoral scholar at the Paul G. Allen Center for Computer Science and Engineering at the University of Washington. Her work focuses on building trustworthy language models by developing rigorous diagnostic techniques for models and datasets, and by creating methods to understand large language models and the principles that govern them."
+      bio: "Abhilasha Ravichander is a postdoctoral scholar at the Paul G. Allen Center for Computer Science and Engineering at the University of Washington. Her work focuses on building trustworthy language models by developing rigorous diagnostic techniques for models and datasets, and by creating methods to understand large language models and the principles that govern them."
+- num_row: 4
+  speakers:
+    - name: Khyathi Raghavi Chandu
+      title: Dr.
+      affiliation: Mistral AI
+      photo: khyati.jpg
+      url: https://khyathiraghavi.github.io/
+      bio: "Khyathi Raghavi Chandu is a AI Research Scientist at Mistral AI. She received her Ph.D. from Carnegie Mellon University. Her research centers on developing and training large-scale models with an expertise on grounded multimodal long-form generation, more recently, practical pathways for building more reliable LLMs, focusing on multimodality. "
