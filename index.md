@@ -144,6 +144,8 @@ IMP NOTES:
 	<li> New profiles created with an institutional email will be activated automatically.</li>
 </ul>
 -->
+<p><b>Submission Format:</b> Paper submissions must use the official ACL style templates, which are available either as an <a href="https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj">Overleaf template</a> or via <a href="https://github.com/acl-org/acl-style-files" a>downloading LaTeX or Word files</a>. We strongly encourage participants to use the LaTeX template. All submissions must be in PDF format and must conform to the official style guidelines, which are contained in these template files. For anonymity policy, we follow the <a href="https://aclrollingreview.org/anonymity/" a>ARR anonimity policy</a>. For additional submission instructions, please check the <a href="https://aacl2025-srw.github.io/guidelines" a>Author Guidelines</a>.</p>
+
 <p><b>Submissions' Site:</b> (a) via <a href="https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/Workshop/CHOMPS">Direct submission</a> (b) via <a href="https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/Workshop/CHOMPS_ARR_Commitment">ARR commitement</a></p>
 <!-- Special Highlights 
 <h2 class="blackpar_title" id="highlights">Special Highlights</h2>
