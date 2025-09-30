@@ -7,13 +7,13 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/mumbai2.jpg') no-repeat; background-size: cover; user-select: none;">
+<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/mumbai2.jpg') no-repeat; background-size: cover;">
 	<center>
 		<br><br>
 		<h2 class="blackpar_title">CHOMPS 2025</h2>
 		<h3 class="blackpar_title">The 1<sup>st</sup> workshop on <a style="color: rgb(164, 0, 0)">C</a>onfabulation, <a style="color: rgb(164, 0, 0)">H</a>allucinations & <a style="color: rgb(164, 0, 0)">O</a>vergeneration in <a style="color: rgb(164, 0, 0)">M</a>ultilingual and <a style="color: rgb(164, 0, 0)">P</a>ractical <a style="color: rgb(164, 0, 0)">S</a>ettings</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in hallucination mitigation in practical situations: <br>multilingual and precision-critical domains</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://www.afnlp.org/conferences/ijcnlp2025/"> AACL-IJCNLP 2025 </a><br> 23-24 December, 2025, Mumbai, India (On-Site)</b></h5>
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://www.afnlp.org/conferences/ijcnlp2025/"> AACL-IJCNLP 2025 </a><br> 23rd December, 2025, Mumbai, India (On-Site)</b></h5>
 		<br><br>	
 	</center>
 </div>
@@ -116,7 +116,7 @@ layout: home
 	<li><b>Direct ARR commitment:</b> October 27, 2025</li>
 	<li><b>Author notification:</b> November 3, 2025</li>
 	<li><b>Camera-Ready due:</b> November 11, 2025</li>
-	<li><b>Workshop date:</b> December 23-24, 2025 (TBC)</li>
+	<li><b>Workshop date:</b> December 23rd, 2025 (TBC)</li>
 </ul>
 All deadlines are 11:59 PM Samoa Standard Time (<a href="https://www.timeanddate.com/time/zones/sst">SST</a>) (UTC/GMT-11, "Anywhere on Earth")
 </p>
