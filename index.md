@@ -111,7 +111,7 @@ layout: home
  	<li><b>First call for papers:</b> July 22, 2025 </li>
 	<li><b>Second call for papers:</b> August 22, 2025 </li>
 	<li><b>Third call for papers:</b> September 22, 2025 </li>
-	<li><b>Paper submission deadline:</b> September 29, 2025 </li>
+	<li><b>Paper submission deadline:</b> <del>September 29, 2025</del> &nbsp;&nbsp; October 03, 2025  </li>
 	<li><b>Direct ARR commitment:</b> October 27, 2025</li>
 	<li><b>Author notification:</b> November 3, 2025</li>
 	<li><b>Camera-Ready due:</b> November 11, 2025</li>
