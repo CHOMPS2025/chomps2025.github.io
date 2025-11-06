@@ -68,7 +68,8 @@ layout: home
 	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide">Submissions Guidelines.</a></li>
 -->
-	<li> <b>[30 September, 2025]</b> Paper submission deadline extension. New deadline: 03 October, 2025 (AoE). Submit via <a href="https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/Workshop/CHOMPS">our OpenReview submission page</a>.</li>
+	<li> <b>[5 Nov, 2025]</b> Decision notification are out!</li>
+	<li> <b>[30 Sept, 2025]</b> Paper submission deadline extension. New deadline: 03 October, 2025 (AoE). Submit via <a href="https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/Workshop/CHOMPS">our OpenReview submission page</a>.</li>
 	<li> <b>[26 May, 2025]</b> <a href="https://chomps2025.github.io/">Website Launched!</a></li>
 </ul>
 </p>
