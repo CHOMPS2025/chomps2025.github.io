@@ -116,8 +116,8 @@ layout: home
 	<li><b>Paper submission deadline:</b> <del>September 29, 2025</del> &nbsp;&nbsp; October 03, 2025  </li>
 	<li><b>Direct ARR commitment:</b> October 27, 2025</li>
 	<li><b>Author notification:</b> November 3, 2025</li>
-	<li><b>Camera-Ready due:</b> November 11, 2025</li>
-	<li><b>Workshop date:</b> December 23rd, 2025 (TBC)</li>
+	<li><b>Camera-Ready due:</b> November 14, 2025</li>
+	<li><b>Workshop date:</b> December 23rd, 2025</li>
 </ul>
 All deadlines are 11:59 PM Samoa Standard Time (<a href="https://www.timeanddate.com/time/zones/sst">SST</a>) (UTC/GMT-11, "Anywhere on Earth")
 </p>
