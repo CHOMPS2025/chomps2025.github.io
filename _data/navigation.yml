@@ -24,8 +24,8 @@
   url: index.html#sponsors
 #- title: Previous Editions
 #  url: index.html#previous_editions
-# - title: Accepted papers
-#   url: TBA
-#   # url: accepted_papers.html
+- title: Accepted papers
+  #url: TBA
+  url: accepted_papers.html
 # - title: Poster session
 #   url: TBA
