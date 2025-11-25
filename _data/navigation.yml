@@ -14,8 +14,8 @@
   url: index.html#speakers
 - title: Shared Task
   url: index.html#sharedtask 
-#- title: Schedule
-#  url: index.html#schedule 
+- title: Schedule
+  url: index.html#schedule 
 - title: Program committee
   url: index.html#program_committee 
 - title: Organizers
