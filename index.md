@@ -205,7 +205,8 @@ IMP NOTES:
 <!-- Schedule -->
 <h2 class="blackpar_title" id="schedule">Schedule (India local time, 23 Dec) </h2>
 <hr  style="color: rgb(212, 110, 0);">
-<!--<p> <b>Keynotes</b>: 40 min talk + 10 min Q&A</p> 
+<p>
+<!-- <b>Keynotes</b>: 40 min talk + 10 min Q&A</p> 
 <p> <b>Orals</b>: 20 min talk + 5 min Q&A</p> 
 <p> <b>Posters</b>: 10 min talk + 3 min Q&A</p>
 <hr  style="color: rgb(212, 110, 0);">
