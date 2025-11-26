@@ -13,19 +13,18 @@
 - title: Keynote
   url: index.html#speakers
 - title: Shared Task
-  url: index.html#sharedtask 
-- title: Schedule
-  url: index.html#schedule 
+  url: index.html#sharedtask  
 - title: Program committee
   url: index.html#program_committee 
 - title: Organizers
   url: index.html#organizers
-- title: Sponsors
-  url: index.html#sponsors
+#- title: Sponsors
+#  url: index.html#sponsors
 #- title: Previous Editions
 #  url: index.html#previous_editions
+- title: Schedule
+  url: index.html#schedule
 - title: Accepted papers
-  #url: TBA
   url: accepted_papers.html
 # - title: Poster session
 #   url: TBA
