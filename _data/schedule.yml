@@ -4,7 +4,7 @@
   Is_paper: false
   Whole_line: false
   #
-- Title: <b>(Keynote Talk 1)</b> TBA
+- Title: <b>(Keynote Talk 1)</b> Illuminating Generative AI - Mapping Knowledge in Large Language Models
   Time: 09.10 - 10.10
   Presenter: Abhilasha Ravichander
   Is_paper: false
@@ -28,7 +28,7 @@
   Is_paper: false
   Whole_line: false
   #
-- Title: <b>(Keynote Talk 2)</b> TBA
+- Title: <b>(Keynote Talk 2)</b> Cultural Misrepresentations in AI-generated Stories
   Time: 11.30 - 12.30
   Presenter: Danish Pruthi
   Is_paper: false
@@ -40,13 +40,13 @@
   Is_paper: false
   Whole_line: true
   #
-- Title: <b>(Keynote Talk 3)</b> TBA
+- Title: <b>(Keynote Talk 3)</b> Decoding Multimodal Uncertainty & Reliability in Knowledge Quadrant
   Time: 13.30 - 14.30
   Presenter: Khyathi Raghavi Chandu
   Is_paper: false
   Whole_line: false
   #
-- Title: <b>(Keynote Talk 4)</b> TBA
+- Title: <b>(Keynote Talk 4)</b> Factuality and Attribution for Large Language Models
   Time: 14.30 - 15.30
   Presenter: Anna Rogers
   Is_paper: false
@@ -66,7 +66,7 @@
   #
 - Title: <b>Panel Discussion</b> Topic [TBD]
   Time: 16.15 - 16.55
-  Presenter: Preslav Nakov, Sunayana Sitaram, Chung-Chi Chen
+  Presenter: Sunayana Sitaram, Amitava Das, Abhilasha Ravichander
   Is_paper: false
   Whole_line: false
   #
