@@ -7,7 +7,7 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/mumbai5.jpg') no-repeat; background-size: cover;">
+<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/mumbai6.jpg') no-repeat; background-size: cover;">
 	<center>
 		<br><br>
 		<h2 class="blackpar_title">CHOMPS 2025</h2>
@@ -203,8 +203,8 @@ IMP NOTES:
 
 
 <!-- Schedule -->
-<h2 class="blackpar_title" id="schedule">Schedule (India local time, 23 Dec) </h2>
-<hr  style="color: rgb(212, 110, 0);">
+<h2 class="blackpar_title" id="schedule">Schedule</h2>
+<hr  style="color: rgba(0, 212, 177, 1);">
 <p>
 <!-- <b>Keynotes</b>: 40 min talk + 10 min Q&A</p> 
 <p> <b>Orals</b>: 20 min talk + 5 min Q&A</p> 
@@ -215,7 +215,6 @@ IMP NOTES:
 {% include schedule.html %}
 </p>
 <br> 
-
 
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>

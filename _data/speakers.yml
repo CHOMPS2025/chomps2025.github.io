@@ -18,10 +18,10 @@
   speakers:
     - name: Abhilasha Ravichander
       title: Dr.
-      affiliation: University of Washington, USA
+      affiliation:  Max Planck Institute, Germany
       photo: abhilasha.png
       url: https://lasharavichander.github.io/
-      bio: "Abhilasha Ravichander is a postdoctoral scholar at the Paul G. Allen Center for Computer Science and Engineering at the University of Washington. Her work focuses on building trustworthy language models by developing rigorous diagnostic techniques for models and datasets, and by creating methods to understand large language models and the principles that govern them."
+      bio: "Abhilasha Ravichander is a Assistant Professor at Max Planck Institute for Software Systems, prior to which she was as an  postdoctoral scholar at the Paul G. Allen Center for Computer Science and Engineering at the University of Washington. Her work focuses on building trustworthy language models by developing rigorous diagnostic techniques for models and datasets, and by creating methods to understand large language models and the principles that govern them."
 - num_row: 4
   speakers:
     - name: Khyathi Raghavi Chandu

@@ -1,11 +1,11 @@
 - num_row: 1
   speakers:
-    - name: Preslav Nakov
-      affiliation: MBZUAI
-      photo: preslav.jpg
     - name: Sunayana Sitaram
       affiliation: Microsoft Research India
       photo: sitaram.png
-    - name: Chung-Chi Chen
-      affiliation: NII, Japan
+    - name: Amitava Das
+      affiliation: BITS Pilani, Goa
       photo: ccc.jpg
+    - name: Abhilasha Ravichander
+      affiliation: Max Planck Institute, Germany
+      photo: abhilasha.png
